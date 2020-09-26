@@ -1,0 +1,18 @@
+input{
+  background-color: pink;
+  color: black;
+  width: 50%;
+  margin-left: 340px;
+  border-radius: 20px;
+  border-color: #b3005f;
+  border-width: 1px;
+  outline: none;
+}
+footer{
+  text-align: center;
+  color: #99004d;
+}
+p :hover{
+  border-radius: 20px;
+  background-color: hotpink;
+}
